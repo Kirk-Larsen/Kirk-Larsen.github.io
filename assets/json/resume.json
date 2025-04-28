@@ -107,11 +107,30 @@
         "Atomic, Molecular and Optical Physics",
         "Chemical Physics",
         "Photoionization",
-        "Photodissociation",
+        "Photodissociation"
+      ]
+    },
+    {
+      "name": "Sources",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "High harmonic generation",
+        "Synchrotron radiation",
         "Free-electron lasers",
-        "Ultrafast Soft X-ray Spectroscopy",
-        "Ultrafast Hard X-ray Scattering",
-        "Ultrafast Electron Diffraction"
+        "Optical solitons",
+        "Resonant dispersive waves"
+      ]
+    },
+    {
+      "name": "Methods",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Coincidence momentum imaging",
+        "Velocity map imaging",
+        "Attosecond angular streaking",
+        "Ultrafast soft x-ray spectroscopy",
+        "Ultrafast hard x-ray scattering",
+        "Ultrafast electron diffraction"
       ]
     }
   ],
