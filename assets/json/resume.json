@@ -5,11 +5,11 @@
     "image": "",
     "email": "larsenk@stanford.edu",
     "url": "https://profiles.stanford.edu/kirk-larsen",
-    "summary": "Lasers",
+    "summary": "Developing tunable few-cycle UV light sources using soliton dynamics and resonant dispersive wave emission in hollow core fibers. Primary contact for laser delivery and support at the coherent x-ray imaging (CXI) instrument at LCLS. Developing advanced photoinjector methods at LCLS for temporal x-ray pulse shaping and attosecond x-ray pulse generation at high repetition rates.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "2575 Sand Hill Rd",
+      "postalCode": "CA 94025",
+      "city": "Menlo Park",
       "countryCode": "US",
       "region": "California"
     },
@@ -23,25 +23,13 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Linac Coherent Light Source, SLAC National Accelerator Laboratory",
+      "position": "Associate Staff Scientist",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "startDate": "2023-11-01",
+      "endDate": "Present",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
   "education": [
