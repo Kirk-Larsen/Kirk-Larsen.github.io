@@ -86,6 +86,13 @@ ninja.data = [{
           window.open("https://github.com/Kirk-Larsen", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/kirk-larsen-b973199b", "_blank");
+        },
+      },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
@@ -93,11 +100,11 @@ ninja.data = [{
           window.open("https://orcid.org/0000-0002-3252-260X", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-researchgate',
+        title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://www.researchgate.net/profile/2145385658/", "_blank");
         },
       },{
         id: 'social-scholar',
@@ -105,6 +112,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=O9o-7K0AAAAJ", "_blank");
+        },
+      },{
+        id: 'social-work',
+        title: 'Work',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://profiles.stanford.edu/kirk-larsen", "_blank");
         },
       },{
       id: 'light-theme',
