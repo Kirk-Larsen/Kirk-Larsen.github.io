@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Laser Sciences Department, Linac Coherent Light Source
+subtitle: Associate Scientist, Laser Sciences Department, \\n Linac Coherent Light Source, SLAC National Accelerator Laboratory
 
 profile:
   align: right
