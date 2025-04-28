@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://Kirk-Larsen.github.io/sitemap.xml
