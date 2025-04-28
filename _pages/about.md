@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Associate Scientist, Laser Sciences Department, \\n Linac Coherent Light Source, SLAC National Accelerator Laboratory
+subtitle: Associate Scientist, SLAC National Accelerator Laboratory
 
 profile:
   align: right
@@ -11,7 +11,6 @@ profile:
   more_info: >
     <p>Laser Sciences Department</p>
     <p>Linac Coherent Light Source</p>
-    <p>SLAC National Accelerator Laboratory</p>
     <p>2575 Sand Hill Rd</p>
     <p>Mailstop 0019</p>
     <p>Menlo Park, California 94025</p>
