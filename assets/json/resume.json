@@ -15,9 +15,9 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
@@ -41,7 +41,7 @@
       "studyType": "Postdoctoral Scholar",
       "startDate": "2021-01-01",
       "endDate": "2022-10-31",
-      "score": "10",
+      "score": "",
       "courses": ["Advisor: Professor Agostino Marinelli"]
     },
     {
@@ -52,7 +52,7 @@
       "studyType": "PhD",
       "startDate": "2015-08-21",
       "endDate": "2020-12-20",
-      "score": "10",
+      "score": "",
       "courses": ["Advisor: Professor Roger W. Falcone","Thesis: Two-photon ionization and dissociation dynamics in atoms and molecules studied using vacuum ultraviolet laser harmonics and coincidence momentum imaging"]
     },
     {
@@ -63,7 +63,7 @@
       "studyType": "BS",
       "startDate": "2009-09-30",
       "endDate": "2014-06-13",
-      "score": "10",
+      "score": "",
       "courses": ["Cum Laude","Physics Departmental Honors"]
     }
   ],
@@ -74,7 +74,13 @@
       "keywords": [
         "Nonlinear Optics",
         "Attosecond Science",
-        "Atomic, Molecular and Optical Physics"
+        "Atomic, Molecular and Optical Physics",
+        "Chemical Physics",
+        "Photoionization",
+        "Free-electron lasers",
+        "Ultrafast Soft X-ray Spectroscopy",
+        "Ultrafast Hard X-ray Scattering",
+        "Ultrafast Electron Diffraction"
       ]
     }
   ],
@@ -84,7 +90,8 @@
       "summary": "Generation and characterization of solitons and resonant dispersive waves in hollow capillary fibers driven by Yb laser systems.",
       "highlights": ["Solitons", "Resonant dispersive wave", "Few-cycle", "Tunable UV/Vis", "Attosecond field transients"],
       "startDate": "2023-01-01",
-      "endDate": "Present"
+      "endDate": "Present",
+      "url": "https://github.com/Kirk-Larsen/LUNA_HollowCoreFiber"
     }
   ]
 }
