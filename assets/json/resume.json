@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Kirk A. Larsen",
-    "label": "Associate Scientist, SLAC National Accelerator Laboratory \\n Laser Sciences Department, Linac Coherent Light Source",
+    "label": "Associate Scientist, Laser Sciences Department, Linac Coherent Light Source",
     "image": "",
     "email": "larsenk@stanford.edu",
     "url": "https://profiles.stanford.edu/kirk-larsen",
@@ -65,6 +65,36 @@
       "endDate": "2014-06-13",
       "score": "",
       "courses": ["Cum Laude","Physics Departmental Honors"]
+    }
+  ],
+  "volunteer": [
+    {
+    "organization": "University of California, Berkeley",
+    "position": "Graduate Student Assembly Co-Delegate",
+    "url": "https://ga.berkeley.edu/",
+    "startDate": "2015-08-21",
+    "endDate": "2015-12-21"
+    },
+    {
+    "organization": "Lawrence Berkeley National Laboratory, Workforce Development & Education",
+    "position": "Graduate Student Panel Member",
+    "url": "https://education.lbl.gov/",
+    "startDate": "2015-08-21",
+    "endDate": "2019-12-01"
+    },
+    {
+    "organization": "Lawrence Berkeley National Laboratory, Monthly AMO Science Forum",
+    "position": "Organizer and Coordinator",
+    "url": "https://amos.lbl.gov/",
+    "startDate": "2016-08-21",
+    "endDate": "2019-12-01"
+    },
+    {
+    "organization": "Journal of Physics B: Atomic, Molecular and Optical Physics",
+    "position": "Peer Reviewer",
+    "url": "https://iopscience.iop.org/journal/0953-4075",
+    "startDate": "2020-03-01",
+    "endDate": "Present"
     }
   ],
   "interests": [
