@@ -9,8 +9,11 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Mailstop 0019</p>
+    <p>Laser Sciences Department</p>
+    <p>Linac Coherent Light Source</p>
+    <p>SLAC National Accelerator Laboratory</p>
     <p>2575 Sand Hill Rd</p>
+    <p>Mailstop 0019</p>
     <p>Menlo Park, California 94025</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
