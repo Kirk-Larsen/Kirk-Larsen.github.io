@@ -26,13 +26,24 @@
       "name": "Laser Sciences Department, Linac Coherent Light Source",
       "position": "Associate Staff Scientist",
       "url": "https://lcls.slac.stanford.edu/depts/lasers",
-      "startDate": "2023-11-01",
+      "startDate": "2022-11-01",
       "endDate": "Present",
       "summary": "Developing tunable few-cycle UV light sources using soliton dynamics and resonant dispersive wave emission in hollow capillary fibers. Primary contact for laser delivery and support at the coherent x-ray imaging (CXI) instrument at LCLS. Developing advanced photoinjector methods at LCLS for temporal x-ray pulse shaping and attosecond x-ray pulse generation at high repetition rates.",
       "highlights": ["Nonlinear optics","Attosecond science"]
     }
   ],
   "education": [
+    {
+      "institution": "Stanford PULSE Institute",
+      "location": "Stanford, CA",
+      "url": "https://ultrafast.stanford.edu/",
+      "area": "Photon Science",
+      "studyType": "Postdoctoral Scholar",
+      "startDate": "2021-01-01",
+      "endDate": "2022-10-31",
+      "score": "10",
+      "courses": ["Advisor: Professor Agostino Marinelli"]
+    },
     {
       "institution": "University of California, Berkeley",
       "location": "Berkeley, CA",
@@ -42,7 +53,7 @@
       "startDate": "2015-08-21",
       "endDate": "2020-12-20",
       "score": "10",
-      "courses": ["Thesis: Two-photon ionization and dissociation dynamics in atoms and molecules studied using vacuum ultraviolet laser harmonics and coincidence momentum imaging"]
+      "courses": ["Advisor: Professor Roger W. Falcone","Thesis: Two-photon ionization and dissociation dynamics in atoms and molecules studied using vacuum ultraviolet laser harmonics and coincidence momentum imaging"]
     },
     {
       "institution": "University of Oregon",
@@ -51,9 +62,9 @@
       "area": "Physics, Mathematics",
       "studyType": "BS",
       "startDate": "2009-09-30",
-      "endDate": "2014-06-20",
+      "endDate": "2014-06-13",
       "score": "10",
-      "courses": [""]
+      "courses": ["Cum Laude","Physics Departmental Honors"]
     }
   ],
   "interests": [
