@@ -42,7 +42,15 @@
       "startDate": "2015-08-21",
       "endDate": "2020-12-20",
       "score": "10",
-      "courses": ["Two-photon ionization and dissociation dynamics in atoms and molecules studied using vacuum ultraviolet laser harmonics and coincidence momentum imaging"]
+      "courses": ["Two-photon ionization and dissociation dynamics in atoms and molecules studied using vacuum ultraviolet laser harmonics and coincidence momentum imaging"],
+      "institution": "University of Oregon",
+      "location": "Eugene, OR",
+      "url": "https://naturalsciences.uoregon.edu/physics",
+      "area": "Physics, Mathematics",
+      "studyType": "BS",
+      "startDate": "2009-09-30",
+      "endDate": "2014-06-20",
+      "score": "10"
     }
   ],
   "interests": [
