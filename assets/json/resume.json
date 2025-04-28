@@ -29,7 +29,7 @@
       "startDate": "2023-11-01",
       "endDate": "Present",
       "summary": "Developing tunable few-cycle UV light sources using soliton dynamics and resonant dispersive wave emission in hollow capillary fibers. Primary contact for laser delivery and support at the coherent x-ray imaging (CXI) instrument at LCLS. Developing advanced photoinjector methods at LCLS for temporal x-ray pulse shaping and attosecond x-ray pulse generation at high repetition rates.",
-      "highlights": ["Nonlinear optics"]
+      "highlights": ["Nonlinear optics","Attosecond science"]
     }
   ],
   "education": [
@@ -39,7 +39,6 @@
       "url": "https://ast.berkeley.edu/",
       "area": "Applied Science and Technology",
       "studyType": "PhD",
-      "Advisor": "Professor Roger W. Falcone",
       "startDate": "2015-08-21",
       "endDate": "2020-12-20",
       "score": "10",
@@ -137,18 +136,6 @@
       ]
     }
   ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
   "interests": [
     {
       "name": "Physics",
@@ -161,18 +148,6 @@
         "Quantum Communication",
         "Quantum Teleportation"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
   "projects": [
