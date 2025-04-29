@@ -149,9 +149,9 @@
     {
       "name": "Attosecond x-ray pump-probe spectroscopy at LCLS",
       "summary": "Developing attosecond pulse generation methods at LCLS and performing attosecond x-ray pump + attosecond x-ray probe spectroscopy in gas- and condensed-phase systems",
-      "highlights": ["https://doi.org/10.1126/science.adn6059","https://doi.org/10.1038/s41566-024-01419-w","https://doi.org/10.1126/sciadv.adp0841","https://doi.org/10.1103/PhysRevX.15.011008","https://doi.org/10.1038/s41566-024-01427-w"],
+      "highlights": ["https://doi.org/10.1126/science.adn6059","https://doi.org/10.1038/s41566-024-01419-w","https://doi.org/10.1126/sciadv.adp0841","https://doi.org/10.1103/PhysRevX.15.011008","https://doi.org/10.1038/s41566-024-01427-w","https://doi.org/10.1103/PhysRevLett.134.115001"],
       "startDate": "2022-03-20",
-      "endDate": "2023-09-20",
+      "endDate": "Present",
       "url": ""
     },
     {
@@ -161,6 +161,14 @@
       "startDate": "2022-03-20",
       "endDate": "2023-09-20",
       "url": "https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-22-35822&id=540725"
+    },
+    {
+      "name": "Attosecond Light Source and Accelerator Development at FACET-II",
+      "summary": "Developing attosecond XUV light sources and advanced accelerator methods at the Facility for Advanced Accelerator Experimental Tests (FACET-II)",
+      "highlights": ["https://doi.org/10.1103/PhysRevLett.134.085001","https://doi.org/10.1103/PhysRevAccelBeams.27.070701"],
+      "startDate": "2021-01-01",
+      "endDate": "Present",
+      "url": ""
     },
     {
       "name": "SILIA - Software Implementation of a Lock In Amplifier",
@@ -181,7 +189,7 @@
     {
       "name": "Advanced Light Source: 3-D coincidence momentum imaging",
       "summary": "Single-photon single- and double-ionization and dissociation dynamics in isolated atoms and molecules studied using synchrotron radiation produced at the Advanced Light Source and coincidence momentum imaging",
-      "highlights": ["https://doi.org/10.1039/C8CP03637C","https://doi.org/10.1103/PhysRevA.99.043414","https://doi.org/10.1103/PhysRevResearch.1.033140","https://doi.org/10.1103/PhysRevResearch.2.043056","https://doi.org/10.1088/1361-6455/abc3aa","https://doi.org/10.1038/s41467-022-32836-6","https://doi.org/10.1039/D3CP02438E","https://doi.org/10.1063/5.0159300","https://doi.org/10.1063/5.0219029",""],
+      "highlights": ["https://doi.org/10.1039/C8CP03637C","https://doi.org/10.1103/PhysRevA.99.043414","https://doi.org/10.1103/PhysRevResearch.1.033140","https://doi.org/10.1103/PhysRevResearch.2.043056","https://doi.org/10.1088/1361-6455/abc3aa","https://doi.org/10.1038/s41467-022-32836-6","https://doi.org/10.1039/D3CP02438E","https://doi.org/10.1063/5.0159300","https://doi.org/10.1063/5.0219029"],
       "startDate": "2015-08-21",
       "endDate": "2020-12-20",
       "url": "https://github.com/Kirk-Larsen/Berkeley_CoincidenceMomentumImaging"
