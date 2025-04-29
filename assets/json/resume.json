@@ -171,9 +171,17 @@
       "url": "https://github.com/AMOS-experiment/SILIA"
     },
     {
-      "name": "3-D coincidence momentum imaging",
-      "summary": "Two-photon ionization and dissociation dynamics in isolated atoms and molecules studied using vacuum ultraviolet pulses produced via high harmonic generation and coincidence momentum imaging",
-      "highlights": ["HHG","Coincidence","Momentum imaging","Angle-resolved","Energy-resolved"],
+      "name": "400 nm driven HHG: 3-D coincidence momentum imaging",
+      "summary": "Two-photon ionization and dissociation dynamics in isolated atoms and molecules studied using vacuum ultraviolet pulses produced via 400 nm driven high harmonic generation and coincidence momentum imaging",
+      "highlights": ["https://doi.org/10.1103/PhysRevA.101.061402","https://doi.org/10.1063/5.0013485","https://doi.org/10.1103/PhysRevA.102.063118","https://doi.org/10.1063/5.0128846"],
+      "startDate": "2015-08-21",
+      "endDate": "2020-12-20",
+      "url": "https://github.com/Kirk-Larsen/Berkeley_CoincidenceMomentumImaging"
+    },
+    {
+      "name": "Advanced Light Source: 3-D coincidence momentum imaging",
+      "summary": "Single-photon single- and double-ionization and dissociation dynamics in isolated atoms and molecules studied using synchrotron radiation produced at the Advanced Light Source and coincidence momentum imaging",
+      "highlights": ["https://doi.org/10.1039/C8CP03637C","https://doi.org/10.1103/PhysRevA.99.043414","https://doi.org/10.1103/PhysRevResearch.1.033140","https://doi.org/10.1103/PhysRevResearch.2.043056","https://doi.org/10.1088/1361-6455/abc3aa","https://doi.org/10.1038/s41467-022-32836-6","https://doi.org/10.1039/D3CP02438E","https://doi.org/10.1063/5.0159300","https://doi.org/10.1063/5.0219029",""],
       "startDate": "2015-08-21",
       "endDate": "2020-12-20",
       "url": "https://github.com/Kirk-Larsen/Berkeley_CoincidenceMomentumImaging"
