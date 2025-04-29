@@ -48,7 +48,7 @@ Using the FEL in half-charge mode at 9.8 keV and the 8.3 fs 800 nm pulses, we me
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/CXI_HCF_4.jpg" title="" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/CXI_HCF_5.jpg" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -59,7 +59,7 @@ Using the FEL in half-charge mode at 15 keV and the 8.3 fs 800 nm pulses, we mea
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/CXI_HCF_5.jpg" title="" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/CXI_HCF_4.jpg" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
