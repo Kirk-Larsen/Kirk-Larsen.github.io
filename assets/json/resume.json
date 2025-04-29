@@ -147,6 +147,14 @@
       "url": "https://github.com/Kirk-Larsen/LUNA_HollowCoreFiber"
     },
     {
+      "name": "Attosecond x-ray pump-probe spectroscopy at LCLS",
+      "summary": "Developing attosecond pulse generation methods at LCLS and performing attosecond x-ray pump + attosecond x-ray probe spectroscopy in gas- and condensed-phase systems",
+      "highlights": ["https://doi.org/10.1126/science.adn6059","https://doi.org/10.1038/s41566-024-01419-w","https://doi.org/10.1126/sciadv.adp0841","https://doi.org/10.1103/PhysRevX.15.011008","https://doi.org/10.1038/s41566-024-01427-w"],
+      "startDate": "2022-03-20",
+      "endDate": "2023-09-20",
+      "url": ""
+    },
+    {
       "name": "Fresnel zone plate based soft x-ray photon spectrometer",
       "summary": "Compact single-shot soft X-ray photon spectrometer for free-electron laser diagnostics.",
       "highlights": ["Spectrometer","Soft x-rays","Fresnel zone plate","Free-electron laser"],
