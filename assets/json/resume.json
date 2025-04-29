@@ -147,8 +147,8 @@
       "url": "https://github.com/Kirk-Larsen/LUNA_HollowCoreFiber"
     },
     {
-      "name": "Coherent x-ray imaging at LCLS",
-      "summary": "Expanding scientific scope at the coherent x-ray imaging instrument at LCLS through advanced laser techniques",
+      "name": "Coherent x-ray imaging at LCLS: laser developments",
+      "summary": "Expanding scientific scope at the coherent x-ray imaging instrument at LCLS through advanced laser techniques (e.g. spectral broadening and post-compression)",
       "highlights": ["https://doi.org/10.1088/1361-6455/ad78d0"],
       "startDate": "2022-11-01",
       "endDate": "Present",
@@ -189,7 +189,7 @@
     {
       "name": "400 nm driven HHG: 3-D coincidence momentum imaging",
       "summary": "Two-photon ionization and dissociation dynamics in isolated atoms and molecules studied using vacuum ultraviolet pulses produced via 400 nm driven high harmonic generation and coincidence momentum imaging",
-      "highlights": ["https://doi.org/10.1103/PhysRevA.101.061402","https://doi.org/10.1063/5.0013485","https://doi.org/10.1103/PhysRevA.102.063118","https://doi.org/10.1063/5.0128846"],
+      "highlights": ["https://doi.org/10.1103/PhysRevA.101.061402","https://doi.org/10.1063/5.0013485","https://doi.org/10.1103/PhysRevA.102.063118","https://doi.org/10.1063/5.0128846","https://doi.org/10.1103/PhysRevResearch.3.033191 (800 nm driven HHG)"],
       "startDate": "2015-08-21",
       "endDate": "2020-12-20",
       "url": "https://github.com/Kirk-Larsen/Berkeley_CoincidenceMomentumImaging"
