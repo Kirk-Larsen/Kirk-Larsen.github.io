@@ -69,11 +69,6 @@ ninja.data = [{
           description: "Advancing time-resolved hard x-ray scattering experiments via spectral broadening and post-compression",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
