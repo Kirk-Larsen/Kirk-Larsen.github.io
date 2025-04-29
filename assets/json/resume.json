@@ -147,6 +147,14 @@
       "url": "https://github.com/Kirk-Larsen/LUNA_HollowCoreFiber"
     },
     {
+      "name": "Coherent x-ray imaging at LCLS",
+      "summary": "Expanding scientific scope at the coherent x-ray imaging instrument at LCLS through advanced laser techniques",
+      "highlights": ["https://doi.org/10.1088/1361-6455/ad78d0"],
+      "startDate": "2022-11-01",
+      "endDate": "Present",
+      "url": "https://kirk-larsen.github.io/projects/1_project/"
+    },
+    {
       "name": "Attosecond x-ray pump-probe spectroscopy at LCLS",
       "summary": "Developing attosecond pulse generation methods at LCLS and performing attosecond x-ray pump + attosecond x-ray probe spectroscopy in gas- and condensed-phase systems",
       "highlights": ["https://doi.org/10.1126/science.adn6059","https://doi.org/10.1038/s41566-024-01419-w","https://doi.org/10.1126/sciadv.adp0841","https://doi.org/10.1103/PhysRevX.15.011008","https://doi.org/10.1038/s41566-024-01427-w","https://doi.org/10.1103/PhysRevLett.134.115001","https://doi.org/10.1063/5.0233468","https://doi.org/10.1063/5.0223334"],
