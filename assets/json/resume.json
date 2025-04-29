@@ -141,7 +141,7 @@
     {
       "name": "Soliton dynamics and resonant dispersive wave emission in hollow capillary fibers",
       "summary": "Generation and characterization of optical solitons and tunable few-cycle resonant dispersive waves in cascaded hollow capillary fibers driven by Yb laser systems.",
-      "highlights": ["Solitons", "Resonant dispersive wave", "Few-cycle", "Tunable UV/Vis", "Attosecond field transients"],
+      "highlights": ["https://doi.org/10.1364/FIO.2024.JW5A.65"],
       "startDate": "2022-11-01",
       "endDate": "Present",
       "url": "https://github.com/Kirk-Larsen/LUNA_HollowCoreFiber"
