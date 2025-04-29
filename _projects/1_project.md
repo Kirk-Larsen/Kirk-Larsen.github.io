@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Spectral broadening and post-compression 
-description: Spectral broadening and post-compression
-img: assets/img/12.jpg
+title: Advancing time-resolved hard x-ray scattering experiments via spectral broadening and post-compression
+description: Sub-10 femtosecond (fs) pulses at 800 nm are generated via spectral broadening and post-compression of the Ti:Sapphire laser system at the coherent x-ray imaging instrument at LCLS. Combined with sub-10 fs x-ray pulses from the FEL generated using half-charge mode, we have demonstrated 9.7 fs and 13.1 fs instrument response functions at 15 keV and 10 keV, respectively, in two different gas-phase hard x-ray scattering experiments.
+img: assets/img/IMG_0076.jpg
 importance: 1
 category: work
 related_publications: false
