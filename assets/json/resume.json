@@ -99,13 +99,16 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Science",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Nonlinear Optics",
-        "Attosecond Science",
-        "Atomic, Molecular and Optical Physics",
-        "Chemical Physics",
+        "Atomic, molecular and optical physics",
+        "Nonlinear optics",
+        "Attosecond science",
+        "Chemical physics",
+        "Many-electron dynamics",
+        "Non-adiabatic dynamics",
+        "Electronic coherence",
         "Photoionization",
         "Photodissociation"
       ]
