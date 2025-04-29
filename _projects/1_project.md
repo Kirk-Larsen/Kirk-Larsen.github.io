@@ -43,3 +43,25 @@ The pulse duration is characterized using second harmonic generation frequency-r
 <div class="caption">
     The measured SHG-FROG autocorrelation is 12 fs FWHM. The SHG-FROG retrieval gives 8.3 fs FWHM pulse duration. 
 </div>
+
+Using the FEL in half-charge mode at 9.8 keV and the 8.3 fs 800 nm pulses, we measured a 13.1 fs instrument response function in cyclohexadiene following strong-field ionization.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/CXI_HCF_4.jpg" title="" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The measured 13.1 fs instrument response function in CHD. 
+</div>
+
+Using the FEL in half-charge mode at 15 keV and the 8.3 fs 800 nm pulses, we measured a 9.7 fs instrument response function in heavy water following strong-field ionization.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/CXI_HCF_5.jpg" title="" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The measured 9.7 fs instrument response function in heavy water. 
+</div>
