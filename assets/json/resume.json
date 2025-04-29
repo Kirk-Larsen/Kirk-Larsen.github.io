@@ -165,7 +165,7 @@
     {
       "name": "SILIA - Software Implementation of a Lock In Amplifier",
       "summary": "A software implementation of a lock in amplifier with an arbitrary number of channels and frequencies.",
-      "highlights": ["Lock-in","Spectroscopy","Imaging","Measurement"],
+      "highlights": ["https://doi.org/10.1088/1361-6501/ac2436"],
       "startDate": "2020-08-21",
       "endDate": "2021-09-20",
       "url": "https://github.com/AMOS-experiment/SILIA"
