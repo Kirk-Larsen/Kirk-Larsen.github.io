@@ -157,7 +157,7 @@
     {
       "name": "Fresnel zone plate based soft x-ray photon spectrometer",
       "summary": "Compact single-shot soft X-ray photon spectrometer for free-electron laser diagnostics.",
-      "highlights": ["Spectrometer","Soft x-rays","Fresnel zone plate","Free-electron laser"],
+      "highlights": ["https://doi.org/10.1364/OE.502105"],
       "startDate": "2022-03-20",
       "endDate": "2023-09-20",
       "url": "https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-22-35822&id=540725"
