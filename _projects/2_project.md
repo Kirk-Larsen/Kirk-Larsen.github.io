@@ -76,6 +76,6 @@ Finally, we can compare these two methods and we see there is close agreement.
     </div>
 </div>
 <div class="caption">
-    Direct field sampling measurement of the RDW pulse. 
+    Comparing SD-FROG with direct field sampling. 
 </div>
 
