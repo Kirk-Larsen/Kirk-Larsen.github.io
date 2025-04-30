@@ -146,7 +146,9 @@
     {
       "name": "Soliton dynamics and resonant dispersive wave emission in hollow capillary fibers",
       "summary": "Generation and characterization of optical solitons and tunable few-cycle resonant dispersive waves in cascaded hollow capillary fibers driven by Yb laser systems.",
-      "highlights": ["https://doi.org/10.1364/FIO.2024.JW5A.65"],
+      "highlights": [
+        "<a href='https://doi.org/10.1364/FIO.2024.JW5A.65'>Frontiers in Optics + Laser Science 2024 | DOI: 10.1364/FIO.2024.JW5A.65</a>"
+      ],
       "startDate": "2022-11-01",
       "endDate": "Present",
       "url": "https://github.com/Kirk-Larsen/LUNA_HollowCoreFiber"
@@ -154,7 +156,9 @@
     {
       "name": "Coherent x-ray imaging at LCLS: laser developments",
       "summary": "Expanding scientific scope at the coherent x-ray imaging instrument at LCLS through advanced laser techniques (e.g. spectral broadening and post-compression).",
-      "highlights": ["https://doi.org/10.1088/1361-6455/ad78d0"],
+      "highlights": [
+        "<a href='https://doi.org/10.1088/1361-6455/ad78d0'>Journal of Physics B: Atomic, Molecular and Optical Physics | DOI: 10.1088/1361-6455/ad78d0</a>"
+      ],
       "startDate": "2022-11-01",
       "endDate": "Present",
       "url": "https://kirk-larsen.github.io/projects/1_project/"
@@ -162,7 +166,15 @@
     {
       "name": "Attosecond x-ray pump-probe spectroscopy at LCLS",
       "summary": "Developing attosecond pulse generation methods at LCLS and performing attosecond x-ray pump + attosecond x-ray probe spectroscopy in gas- and condensed-phase systems.",
-      "highlights": ["https://doi.org/10.1126/science.adn6059","https://doi.org/10.1038/s41566-024-01419-w","https://doi.org/10.1126/sciadv.adp0841","https://doi.org/10.1103/PhysRevX.15.011008","https://doi.org/10.1038/s41566-024-01427-w","https://doi.org/10.1103/PhysRevLett.134.115001","https://doi.org/10.1063/5.0223334"],
+      "highlights": [
+        "<a href='https://doi.org/10.1126/science.adn6059'>Science | DOI: 10.1126/science.adn6059</a>",
+        "<a href='https://doi.org/10.1038/s41566-024-01419-w'>Nature Photonics | DOI: 10.1038/s41566-024-01419-w</a>",
+        "<a href='https://doi.org/10.1126/sciadv.adp0841'>Science Advances | DOI: 10.1126/sciadv.adp0841</a>",
+        "<a href='https://doi.org/10.1103/PhysRevX.15.011008'>Physical Review X | DOI: 10.1103/PhysRevX.15.011008</a>",
+        "<a href='https://doi.org/10.1038/s41566-024-01427-w'>Nature Photonics | DOI: 10.1038/s41566-024-01427-w</a>",
+        "<a href='https://doi.org/10.1103/PhysRevLett.134.115001'>Physical Review Letters | DOI: 10.1103/PhysRevLett.134.115001</a>",
+        "<a href='https://doi.org/10.1063/5.0223334'>Review of Scientific Instruments | DOI: 10.1063/5.0223334</a>"
+      ],
       "startDate": "2022-03-20",
       "endDate": "Present",
       "url": ""
@@ -170,7 +182,10 @@
     {
       "name": "Advanced photoinjector techniques: attosecond capabilities at high repetition rates",
       "summary": "Developing advanced photoinjector methods at LCLS-II for temporal x-ray pulse shaping and attosecond x-ray pulse generation at high repetition rates",
-      "highlights": ["https://doi.org/10.1017/hpl.2024.33","https://doi.org/10.1063/5.0233468"],
+      "highlights": [
+        "<a href='https://doi.org/10.1017/hpl.2024.33'>High Power Laser Science and Engineering | DOI: 10.1017/hpl.2024.33</a>",
+        "<a href='https://doi.org/10.1063/5.0233468'>Applied Physics Letters | DOI: 10.1063/5.0233468</a>"
+      ],
       "startDate": "2022-03-20",
       "endDate": "Present",
       "url": ""
@@ -178,7 +193,9 @@
     {
       "name": "Fresnel zone plate based soft x-ray photon spectrometer",
       "summary": "Compact single-shot soft X-ray photon spectrometer for free-electron laser diagnostics.",
-      "highlights": ["https://doi.org/10.1364/OE.502105"],
+      "highlights": [
+        "<a href='https://doi.org/10.1364/OE.502105'>Optics Express | DOI: 10.1364/OE.502105</a>"
+      ],
       "startDate": "2022-03-20",
       "endDate": "2023-09-20",
       "url": "https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-22-35822&id=540725"
@@ -186,7 +203,10 @@
     {
       "name": "Attosecond light source and accelerator development at FACET-II",
       "summary": "Developing attosecond XUV light sources and advanced accelerator methods at the Facility for Advanced Accelerator Experimental Tests (FACET-II).",
-      "highlights": ["https://doi.org/10.1103/PhysRevLett.134.085001","https://doi.org/10.1103/PhysRevAccelBeams.27.070701"],
+      "highlights": [
+        "<a href='https://doi.org/10.1103/PhysRevLett.134.085001'>Physical Review Letters | DOI: 10.1103/PhysRevLett.134.085001</a>",
+        "<a href='https://doi.org/10.1103/PhysRevAccelBeams.27.070701'> Physical Review Accelerators and Beams | DOI: 10.1103/PhysRevAccelBeams.27.070701</a>"
+      ],
       "startDate": "2021-01-01",
       "endDate": "Present",
       "url": ""
