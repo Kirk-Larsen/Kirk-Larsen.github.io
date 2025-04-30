@@ -177,18 +177,18 @@
       ],
       "startDate": "2022-03-20",
       "endDate": "Present",
-      "url": ""
+      "url": "https://lcls.slac.stanford.edu/depts/amo/asc"
     },
     {
       "name": "Advanced photoinjector techniques: attosecond capabilities at high repetition rates",
-      "summary": "Developing advanced photoinjector methods at LCLS-II for temporal x-ray pulse shaping and attosecond x-ray pulse generation at high repetition rates",
+      "summary": "Developing advanced photoinjector methods at LCLS-II for temporal x-ray pulse shaping and attosecond x-ray pulse generation at high repetition rates.",
       "highlights": [
         "<a href='https://doi.org/10.1017/hpl.2024.33'>High Power Laser Science and Engineering | DOI: 10.1017/hpl.2024.33</a>",
         "<a href='https://doi.org/10.1063/5.0233468'>Applied Physics Letters | DOI: 10.1063/5.0233468</a>"
       ],
       "startDate": "2022-03-20",
       "endDate": "Present",
-      "url": ""
+      "url": "https://accelerators.slac.stanford.edu/research/fel"
     },
     {
       "name": "Fresnel zone plate based soft x-ray photon spectrometer",
@@ -209,7 +209,7 @@
       ],
       "startDate": "2021-01-01",
       "endDate": "Present",
-      "url": ""
+      "url": "https://facet-ii.slac.stanford.edu/accepted-proposals"
     },
     {
       "name": "SILIA: software implementation of a lock in amplifier",
