@@ -59,12 +59,7 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "projects-spectral-broadening-and-post-compression-at-cxi",
+      },{id: "projects-spectral-broadening-and-post-compression-at-cxi",
           title: 'Spectral broadening and post-compression at CXI',
           description: "Advancing time-resolved hard x-ray scattering experiments via spectral broadening and post-compression",
           section: "Projects",handler: () => {
