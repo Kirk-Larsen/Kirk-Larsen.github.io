@@ -148,7 +148,7 @@
     },
     {
       "name": "Coherent x-ray imaging at LCLS: laser developments",
-      "summary": "Expanding scientific scope at the coherent x-ray imaging instrument at LCLS through advanced laser techniques (e.g. spectral broadening and post-compression)",
+      "summary": "Expanding scientific scope at the coherent x-ray imaging instrument at LCLS through advanced laser techniques (e.g. spectral broadening and post-compression).",
       "highlights": ["https://doi.org/10.1088/1361-6455/ad78d0"],
       "startDate": "2022-11-01",
       "endDate": "Present",
@@ -156,8 +156,16 @@
     },
     {
       "name": "Attosecond x-ray pump-probe spectroscopy at LCLS",
-      "summary": "Developing attosecond pulse generation methods at LCLS and performing attosecond x-ray pump + attosecond x-ray probe spectroscopy in gas- and condensed-phase systems",
-      "highlights": ["https://doi.org/10.1126/science.adn6059","https://doi.org/10.1038/s41566-024-01419-w","https://doi.org/10.1126/sciadv.adp0841","https://doi.org/10.1103/PhysRevX.15.011008","https://doi.org/10.1038/s41566-024-01427-w","https://doi.org/10.1103/PhysRevLett.134.115001","https://doi.org/10.1063/5.0233468","https://doi.org/10.1063/5.0223334"],
+      "summary": "Developing attosecond pulse generation methods at LCLS and performing attosecond x-ray pump + attosecond x-ray probe spectroscopy in gas- and condensed-phase systems.",
+      "highlights": ["https://doi.org/10.1126/science.adn6059","https://doi.org/10.1038/s41566-024-01419-w","https://doi.org/10.1126/sciadv.adp0841","https://doi.org/10.1103/PhysRevX.15.011008","https://doi.org/10.1038/s41566-024-01427-w","https://doi.org/10.1103/PhysRevLett.134.115001","https://doi.org/10.1063/5.0223334"],
+      "startDate": "2022-03-20",
+      "endDate": "Present",
+      "url": ""
+    },
+    {
+      "name": "Advanced photoinjector techniques: attosecond capabilities at high repetition rates",
+      "summary": "Developing advanced photoinjector methods at LCLS-II for temporal x-ray pulse shaping and attosecond x-ray pulse generation at high repetition rates",
+      "highlights": ["https://doi.org/10.1017/hpl.2024.33","https://doi.org/10.1063/5.0233468"],
       "startDate": "2022-03-20",
       "endDate": "Present",
       "url": ""
@@ -172,14 +180,14 @@
     },
     {
       "name": "Attosecond light source and accelerator development at FACET-II",
-      "summary": "Developing attosecond XUV light sources and advanced accelerator methods at the Facility for Advanced Accelerator Experimental Tests (FACET-II)",
+      "summary": "Developing attosecond XUV light sources and advanced accelerator methods at the Facility for Advanced Accelerator Experimental Tests (FACET-II).",
       "highlights": ["https://doi.org/10.1103/PhysRevLett.134.085001","https://doi.org/10.1103/PhysRevAccelBeams.27.070701"],
       "startDate": "2021-01-01",
       "endDate": "Present",
       "url": ""
     },
     {
-      "name": "SILIA - Software Implementation of a Lock In Amplifier",
+      "name": "SILIA - software implementation of a lock in amplifier",
       "summary": "A software implementation of a lock in amplifier with an arbitrary number of channels and frequencies.",
       "highlights": ["https://doi.org/10.1088/1361-6501/ac2436"],
       "startDate": "2020-08-21",
@@ -188,7 +196,7 @@
     },
     {
       "name": "400 nm driven HHG: 3-D coincidence momentum imaging",
-      "summary": "Two-photon ionization and dissociation dynamics in isolated atoms and molecules studied using vacuum ultraviolet pulses produced via 400 nm driven high harmonic generation and coincidence momentum imaging",
+      "summary": "Two-photon ionization and dissociation dynamics in isolated atoms and molecules studied using vacuum ultraviolet pulses produced via 400 nm driven high harmonic generation and coincidence momentum imaging.",
       "highlights": ["https://doi.org/10.1103/PhysRevA.101.061402","https://doi.org/10.1063/5.0013485","https://doi.org/10.1103/PhysRevA.102.063118","https://doi.org/10.1063/5.0128846","https://doi.org/10.1103/PhysRevResearch.3.033191 (800 nm driven HHG)"],
       "startDate": "2015-08-21",
       "endDate": "2020-12-20",
@@ -196,11 +204,19 @@
     },
     {
       "name": "Advanced light source: 3-D coincidence momentum imaging",
-      "summary": "Single-photon single- and double-ionization and dissociation dynamics in isolated atoms and molecules studied using synchrotron radiation produced at the Advanced Light Source and coincidence momentum imaging",
+      "summary": "Single-photon single- and double-ionization and dissociation dynamics in isolated atoms and molecules studied using synchrotron radiation produced at the Advanced Light Source and coincidence momentum imaging.",
       "highlights": ["https://doi.org/10.1039/C8CP03637C","https://doi.org/10.1103/PhysRevA.99.043414","https://doi.org/10.1103/PhysRevResearch.1.033140","https://doi.org/10.1103/PhysRevResearch.2.043056","https://doi.org/10.1088/1361-6455/abc3aa","https://doi.org/10.1038/s41467-022-32836-6","https://doi.org/10.1039/D3CP02438E","https://doi.org/10.1063/5.0159300","https://doi.org/10.1063/5.0219029"],
       "startDate": "2015-08-21",
       "endDate": "2020-12-20",
       "url": "https://github.com/Kirk-Larsen/Berkeley_CoincidenceMomentumImaging"
+    },
+    {
+      "name": "800 nm driven HHG: velocity map imaging",
+      "summary": "The electronic and nuclear dynamics in methanol, following 156 nm photoexcitation, are investigated by combining a detailed analysis of time-resolved photoelectron spectroscopy experiments with electronic structure calculations.",
+      "highlights": ["https://doi.org/10.1063/1.5079549"],
+      "startDate": "2015-08-21",
+      "endDate": "2019-03-19",
+      "url": "https://pubs.aip.org/aip/jcp/article/150/11/114301/197310"
     }
   ]
 }
