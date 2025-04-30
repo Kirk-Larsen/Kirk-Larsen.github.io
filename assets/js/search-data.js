@@ -69,6 +69,11 @@ ninja.data = [{
           description: "Advancing time-resolved hard x-ray scattering experiments via spectral broadening and post-compression",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-direct-optical-field-sampling",
+          title: 'Direct optical field sampling',
+          description: "Characterizing few-cycle UV resonant dispersive waves through direct field sampling",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project/";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
