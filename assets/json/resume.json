@@ -194,7 +194,9 @@
     {
       "name": "SILIA: software implementation of a lock in amplifier",
       "summary": "A software implementation of a lock in amplifier with an arbitrary number of channels and frequencies.",
-      "highlights": ["https://doi.org/10.1088/1361-6501/ac2436"],
+      "highlights": [
+        "<a href='https://doi.org/10.1088/1361-6501/ac2436'>Measurement Science and Technology | DOI: 10.1088/1361-6501/ac2436</a>"
+      ],
       "startDate": "2020-08-21",
       "endDate": "2021-09-20",
       "url": "https://github.com/AMOS-experiment/SILIA"
@@ -202,7 +204,13 @@
     {
       "name": "400 nm driven HHG: 3-D coincidence momentum imaging",
       "summary": "Two-photon ionization and dissociation dynamics in isolated atoms and molecules studied using vacuum ultraviolet pulses produced via 400 nm driven high harmonic generation and coincidence momentum imaging.",
-      "highlights": ["https://doi.org/10.1103/PhysRevA.101.061402","https://doi.org/10.1063/5.0013485","https://doi.org/10.1103/PhysRevA.102.063118","https://doi.org/10.1063/5.0128846","https://doi.org/10.1103/PhysRevResearch.3.033191 (800 nm driven HHG)"],
+      "highlights": [
+        "<a href='https://doi.org/10.1103/PhysRevA.101.061402'>Physical Review A | DOI: 10.1103/PhysRevA.101.061402</a>",
+        "<a href='https://doi.org/10.1063/5.0013485'>The Journal of Chemical Physics | DOI: 10.1063/5.0013485</a>",
+        "<a href='https://doi.org/10.1103/PhysRevA.102.063118'>Physical Review A | DOI: 10.1103/PhysRevA.102.063118</a>",
+        "<a href='https://doi.org/10.1063/5.0128846'>The Journal of Chemical Physics | DOI: 10.1063/5.0128846</a>",
+        "<a href='https://doi.org/10.1103/PhysRevResearch.3.033191'>Physical Review Research | DOI: 10.1103/PhysRevResearch.3.033191</a> (800 nm driven HHG)"
+      ],
       "startDate": "2015-08-21",
       "endDate": "2020-12-20",
       "url": "https://github.com/Kirk-Larsen/Berkeley_CoincidenceMomentumImaging"
@@ -224,7 +232,7 @@
       "startDate": "2015-08-21",
       "endDate": "2020-12-20",
       "url": "https://github.com/Kirk-Larsen/Berkeley_CoincidenceMomentumImaging"
-    }
+    },
     {
       "name": "800 nm driven HHG: velocity map imaging",
       "summary": "The electronic and nuclear dynamics in methanol, following 156 nm photoexcitation, are investigated by combining a detailed analysis of time-resolved photoelectron spectroscopy experiments with electronic structure calculations.",
