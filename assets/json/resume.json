@@ -24,7 +24,7 @@
   "work": [
     {
       "name": "Laser Sciences Department, Linac Coherent Light Source",
-      "position": "Associate Staff Scientist",
+      "position": "Associate Scientist",
       "url": "https://lcls.slac.stanford.edu/depts/lasers",
       "startDate": "2022-11-01",
       "endDate": "Present",
@@ -210,15 +210,27 @@
     {
       "name": "Advanced light source: 3-D coincidence momentum imaging",
       "summary": "Single-photon single- and double-ionization and dissociation dynamics in isolated atoms and molecules studied using synchrotron radiation produced at the Advanced Light Source and coincidence momentum imaging.",
-      "highlights": ["https://doi.org/10.1039/C8CP03637C","https://doi.org/10.1103/PhysRevA.99.043414","https://doi.org/10.1103/PhysRevResearch.1.033140","https://doi.org/10.1103/PhysRevResearch.2.043056","https://doi.org/10.1088/1361-6455/abc3aa","https://doi.org/10.1038/s41467-022-32836-6","https://doi.org/10.1039/D3CP02438E","https://doi.org/10.1063/5.0159300","https://doi.org/10.1063/5.0219029"],
+      "highlights": [
+        "<a href='https://doi.org/10.1039/C8CP03637C'>Physical Chemistry Chemical Physics | DOI: 10.1039/C8CP03637C</a>",
+        "<a href='https://doi.org/10.1103/PhysRevA.99.043414'>Physical Review A | DOI: 10.1103/PhysRevA.99.043414</a>",
+        "<a href='https://doi.org/10.1103/PhysRevResearch.1.033140'>Physical Review Research | DOI: 10.1103/PhysRevResearch.1.033140</a>",
+        "<a href='https://doi.org/10.1103/PhysRevResearch.2.043056'>Physical Review Research | DOI: 10.1103/PhysRevResearch.2.043056</a>",
+        "<a href='https://doi.org/10.1088/1361-6455/abc3aa'>Journal of Physics B: Atomic, Molecular and Optical Physics | DOI: 10.1088/1361-6455/abc3aa</a>",
+        "<a href='https://doi.org/10.1038/s41467-022-32836-6'>Nature Communications | DOI: 10.1038/s41467-022-32836-6</a>",
+        "<a href='https://doi.org/10.1039/D3CP02438E'>Physical Chemistry Chemical Physics | DOI: 10.1039/D3CP02438E</a>",
+        "<a href='https://doi.org/10.1063/5.0159300'>The Journal of Chemical Physics | DOI: 10.1063/5.0159300</a>",
+        "<a href='https://doi.org/10.1063/5.0219029'>The Journal of Chemical Physics | DOI: 10.1063/5.0219029</a>"
+      ],
       "startDate": "2015-08-21",
       "endDate": "2020-12-20",
       "url": "https://github.com/Kirk-Larsen/Berkeley_CoincidenceMomentumImaging"
-    },
+    }
     {
       "name": "800 nm driven HHG: velocity map imaging",
       "summary": "The electronic and nuclear dynamics in methanol, following 156 nm photoexcitation, are investigated by combining a detailed analysis of time-resolved photoelectron spectroscopy experiments with electronic structure calculations.",
-      "highlights": ["<a href='https://doi.org/10.1063/1.5079549'>Link</a>"],
+      "highlights": [
+        "<a href='https://doi.org/10.1063/1.5079549'>The Journal of Chemical Physics | DOI: 10.1063/1.5079549</a>"
+      ],
       "startDate": "2015-08-21",
       "endDate": "2019-03-19",
       "url": "https://pubs.aip.org/aip/jcp/article/150/11/114301/197310"
