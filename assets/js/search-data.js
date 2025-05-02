@@ -69,6 +69,11 @@ ninja.data = [{
           description: "Characterizing few-cycle UV resonant dispersive waves through direct field sampling",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-carbide-spectral-broadening-and-harmonics",
+          title: 'Carbide spectral broadening and harmonics',
+          description: "Characterizing harmonics and spectrally broadened harmonics using self-diffraction frequency-resolved optical gating (SD-FROG).",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
