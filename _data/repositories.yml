@@ -4,8 +4,8 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - Kirk-Larsen/python_ay250_hw_larsen
-  - Kirk-Larsen/WebcamSpectrometer
-  - Kirk-Larsen/RaspPi_NoIR_Spectrometer
-  - Kirk-Larsen/LUNA_HollowCoreFiber
   - Kirk-Larsen/Berkeley_CoincidenceMomentumImaging
+  - Kirk-Larsen/LUNA_HollowCoreFiber
+  - Kirk-Larsen/python_ay250_hw_larsen
+  - Kirk-Larsen/RaspPi_NoIR_Spectrometer
+  - Kirk-Larsen/WebcamSpectrometer
