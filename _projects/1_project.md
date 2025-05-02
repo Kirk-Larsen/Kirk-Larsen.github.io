@@ -15,7 +15,7 @@ The hollow capillary fiber (HCF) set-up and laser beam path is depicted below.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/CXI_HCF_1.jpeg" title="" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/CXI_HCF_1.jpg" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -26,7 +26,7 @@ The spectrum of the output of the HCF is shown below when under vacuum and press
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/CXI_HCF_2.jpeg" title="" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/CXI_HCF_2.jpg" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -37,7 +37,7 @@ The pulse duration is characterized using second harmonic generation frequency-r
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/CXI_HCF_3.jpeg" title="" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/CXI_HCF_3.jpg" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -48,7 +48,7 @@ Using the FEL in half-charge mode at 9.8 keV and the 8.3 fs 800 nm pulses, we me
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/CXI_HCF_4.jpeg" title="" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/CXI_HCF_4.jpg" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -59,7 +59,7 @@ Using the FEL in half-charge mode at 15 keV and the 8.3 fs 800 nm pulses, we mea
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/CXI_HCF_5.jpeg" title="" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/CXI_HCF_5.jpg" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
