@@ -180,6 +180,16 @@
       "url": "https://lcls.slac.stanford.edu/depts/amo/asc"
     },
     {
+      "name": "Megaelectronvolt Ultrafast Electron Diffraction (MeV-UED)",
+      "summary": "Tracking femtosecond electronic and structural dynamics in gas-phase atomic and molecular systems using ultrafast electron diffraction as a probe.",
+      "highlights": [
+        "<a href='https://doi.org/10.1063/5.0266559'>The Journal of Chemical Physics | DOI: 10.1063/5.0266559</a>"
+      ],
+      "startDate": "2022-11-01",
+      "endDate": "Present",
+      "url": "https://lcls.slac.stanford.edu/instruments/mev-ued"
+    },
+    {
       "name": "Advanced photoinjector techniques: attosecond capabilities at high repetition rates",
       "summary": "Developing advanced photoinjector methods at LCLS-II for temporal x-ray pulse shaping and attosecond x-ray pulse generation at high repetition rates.",
       "highlights": [
